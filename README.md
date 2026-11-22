@@ -25,6 +25,46 @@ The project comprises three experiments:
 
 ---
 
+## Repository Structure
+
+```text
+MNIST-Project/
+├── notebooks/
+│   ├── MNIST_Experiment1.ipynb
+│   ├── MNIST_Experiment2.ipynb
+│   └── MNIST_Experiment3.ipynb
+│
+├── results/
+│   ├── experiment1/
+│   ├── experiment2/
+│   └── experiment3/
+│
+├── report/
+│   ├── final_paper.tex
+│   └── final_paper.pdf
+│
+├── experiments.py
+├── requirements.txt
+├── .gitignore
+└── README.md
+```
+
+### Notebooks
+
+- **Experiment 1:** kNN optimisation using three-fold cross-validation.
+- **Experiment 2:** Lecture-based data reduction using preliminary cleaning, CNN and PCA.
+- **Experiment 3:** Comparison of kNN, Logistic Regression and RBF-SVM.
+
+### Results
+
+Each experiment has a dedicated folder containing its generated figures, evaluation results and any relevant CSV files.
+
+### Report
+
+The `report/` directory contains the final academic report written in LaTeX using the ICML 2026 format.
+
+---
+
 ## Experiment 1 — kNN Optimisation
 
 ### Objective
