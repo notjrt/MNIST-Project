@@ -279,7 +279,7 @@ These findings highlight the importance of considering both predictive performan
 ## Authors
 
 - **Jayden Tan** — [@notjrt](https://github.com/notjrt)
-- **Yuhsaku Nakai** - [@aliks-kuro](https://github.com/aliks-kuro)
+- **Yuhsaku Nakai** — [@aliks-kuro](https://github.com/aliks-kuro)
 
 ## References
 
