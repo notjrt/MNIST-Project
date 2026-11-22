@@ -2,11 +2,6 @@
 
 A machine learning project investigating handwritten digit classification using the MNIST dataset. The study evaluates **k-Nearest Neighbours (kNN)**, training-set reduction techniques, **Logistic Regression**, and **Support Vector Machines (SVM)**.
 
-## Authors
-
-- **Jayden Tan** — [@notjrt](https://github.com/notjrt)
-- **Yuhsaku Nakai** [@aliks-kuro](https://github.com/aliks-kuro)
-
 ## Project Overview
 
 MNIST is a benchmark dataset containing 70,000 grayscale images of handwritten digits (0–9). Each image has a resolution of 28 × 28 pixels.
@@ -240,6 +235,11 @@ The experiments demonstrate several trade-offs between machine learning accuracy
 - Logistic Regression provided the fastest predictions.
 
 These findings highlight the importance of considering both predictive performance and computational requirements when selecting machine learning algorithms.
+
+## Authors
+
+- **Jayden Tan** — [@notjrt](https://github.com/notjrt)
+- **Yuhsaku Nakai** [@aliks-kuro](https://github.com/aliks-kuro)
 
 ## References
 
